@@ -1,0 +1,45 @@
+{
+	"profile": {
+		"img": "download.jpg",
+		"name": "k.teja",
+		"rollnumber": "17A31A0553",
+		"college": "pragati engineering college",
+		"place": "kakinada"
+	},
+	"career": {
+		"info": "TO work in an environment where i can utilize my skills and knowledge"
+	},
+	"education": [{
+			"sno": "1",
+			"class": "10th",
+			"institution": "durga school",
+			"yop": "2015"
+
+		},
+		{
+			"sno": "2",
+			"class": "inter",
+			"institution": "sri chaitanya college",
+			"yop": "2017"
+
+		},
+		{
+			"sno": "3",
+			"class": "b.tech",
+			"institution": "pragati college",
+			"yop": "2021"
+
+		}
+
+	],
+	"languages": [{
+			"lang": "english"
+		},
+		{
+			"lang": "telugu"
+		},
+		{
+			"lang": "hindi"
+		}
+	]
+}

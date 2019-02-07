@@ -1,0 +1,76 @@
+body
+{
+	background: pink;
+}
+.main-div
+{
+	background:gray;
+	display: flex;
+	justify-content: space-around;
+	margin: 10%;
+	border-radius: 5%;
+	outline: thick;
+	box-shadow: 1px 1px 1px 1px;
+
+}
+.sub-div
+{
+     margin: 5%;
+     background: bisque;
+     border-radius: 10%;
+     text-align: center;
+     outline-color: blue;
+     height: 50%;
+     width: 50%;
+
+}
+img
+{
+	border-radius: 5%;
+	margin: 5%;
+	height: 60%;
+	width:50%;
+}
+h2
+{
+	color: blue;
+}
+h3
+{
+	color: orange;
+}
+h4
+{
+	color: brown;
+}
+/*mobile view*/
+@media screen and (min-width: 0px) and (max-width: 480px)
+{
+	body
+{
+	background:  #ff8080;
+}
+.main-div
+{
+	background: #d699ff;
+	justify-content: space-around;
+	margin: 3%;
+	height: 50%;
+	width: 90%;
+	outline: thick;
+	border-radius: 10%;
+
+}
+
+.sub-div
+{
+     margin: 5%;
+     background: bisque;
+     border-radius: 10%;
+     text-align: center;
+     outline-color: #ff66d9;
+     height: 50%;
+     width: 50%;
+
+}
+}
